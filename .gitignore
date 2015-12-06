@@ -1,0 +1,11 @@
+*.DS_STORE
+*.wav
+*.pdf
+*.mf
+*.txt
+*.png
+*.zip
+*.pyc
+*.tar.gz
+*.arff
+*.csv
