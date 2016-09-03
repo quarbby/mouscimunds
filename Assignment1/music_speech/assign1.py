@@ -1,4 +1,3 @@
-# Ng Hui Xian Lynnette  A0119646X
 # CS4347 Assignment 1 Time Domain Audio
 import numpy as np
 import scipy
